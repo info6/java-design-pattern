@@ -19,6 +19,7 @@
 	<modules>
 		<module>factory-pattern</module>
 		<module>abstract-factory-pattern</module>
+		<module>singleton-pattern</module>
 	</modules>
 
 </project>
