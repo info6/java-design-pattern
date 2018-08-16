@@ -12,6 +12,12 @@ import com.zhangbo.service.impl.Mp3MusicPlayer;
  */
 public class MusicPlayerFactory {
 
+	/**
+	 * 获取音乐播放器
+	 *
+	 * @param name
+	 * @return
+	 */
 	public MusicPlayer getMusicPlayer(String name) {
 		Assert.checkNonNull(name);
 
