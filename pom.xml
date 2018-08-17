@@ -24,6 +24,7 @@
 		<module>adapter-pattern</module>
 		<module>chain-of-responsibility-pattern</module>
 		<module>proxy-pattern</module>
+		<module>decorator-pattern</module>
 	</modules>
 
 </project>
