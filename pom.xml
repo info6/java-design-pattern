@@ -21,6 +21,7 @@
 		<module>abstract-factory-pattern</module>
 		<module>singleton-pattern</module>
 		<module>builder-pattern</module>
+		<module>adapter-pattern</module>
 	</modules>
 
 </project>
