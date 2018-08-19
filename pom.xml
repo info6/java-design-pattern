@@ -27,6 +27,7 @@
 		<module>decorator-pattern</module>
 		<module>observer-pattern</module>
 		<module>strategy-pattern</module>
+		<module>template-pattern</module>
 	</modules>
 
 </project>
